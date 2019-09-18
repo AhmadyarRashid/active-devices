@@ -1,0 +1,32 @@
+.input-icons i {
+    position: absolute;
+}
+
+.input-icons {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.icon {
+    padding: 10px;
+    color: black;
+    min-width: 50px;
+    text-align: center;
+}
+
+.login-button{
+    background: #2696b8;
+    margin: auto;
+}
+
+.heading{
+    text-align: center;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background: rgba(124, 119, 128, 0.38);
+    color: white;
+}
